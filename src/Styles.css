@@ -1,0 +1,53 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+.navContainer {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+}
+.navUl {
+  font-family: "Lobster", cursive;
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+li {
+  color: black;
+  font-size: 1.5rem;
+}
+.navUl > li:hover {
+  scale: 1.1;
+}
+body {
+  background-color: rgba(248, 253, 254, 0.409);
+}
+.link {
+  color: white;
+  text-decoration: none;
+}
+.centered {
+  width: 100%;
+  margin: 0 auto;
+}
+.logoR {
+  font-size: 2.5rem;
+  color: rgb(231, 183, 23);
+  font-weight: bold;
+}
+.logoName {
+  font-size: 1.7rem;
+  color: black;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
