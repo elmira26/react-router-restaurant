@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-router-restaurant/static/css/main.c2fe748d.chunk.css",
+    "main.css": "/react-router-restaurant/static/css/main.ea4c9f84.chunk.css",
     "main.js": "/react-router-restaurant/static/js/main.35df54cf.chunk.js",
     "main.js.map": "/react-router-restaurant/static/js/main.35df54cf.chunk.js.map",
     "runtime-main.js": "/react-router-restaurant/static/js/runtime-main.e83b3d84.js",
@@ -9,10 +9,10 @@
     "static/js/2.913e2c33.chunk.js": "/react-router-restaurant/static/js/2.913e2c33.chunk.js",
     "static/js/2.913e2c33.chunk.js.map": "/react-router-restaurant/static/js/2.913e2c33.chunk.js.map",
     "index.html": "/react-router-restaurant/index.html",
-    "precache-manifest.b93755447833f4d3857c3c0d2faa0ff9.js": "/react-router-restaurant/precache-manifest.b93755447833f4d3857c3c0d2faa0ff9.js",
+    "precache-manifest.28bb0ff1eafaa54b3c77ea3b17d1730e.js": "/react-router-restaurant/precache-manifest.28bb0ff1eafaa54b3c77ea3b17d1730e.js",
     "service-worker.js": "/react-router-restaurant/service-worker.js",
     "static/css/2.53194f49.chunk.css.map": "/react-router-restaurant/static/css/2.53194f49.chunk.css.map",
-    "static/css/main.c2fe748d.chunk.css.map": "/react-router-restaurant/static/css/main.c2fe748d.chunk.css.map",
+    "static/css/main.ea4c9f84.chunk.css.map": "/react-router-restaurant/static/css/main.ea4c9f84.chunk.css.map",
     "static/js/2.913e2c33.chunk.js.LICENSE.txt": "/react-router-restaurant/static/js/2.913e2c33.chunk.js.LICENSE.txt",
     "static/media/home.css": "/react-router-restaurant/static/media/priscilla-du-preez-unsplash.dd1167cf.jpg",
     "static/media/Order.css": "/react-router-restaurant/static/media/order.5820d719.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.e83b3d84.js",
     "static/css/2.53194f49.chunk.css",
     "static/js/2.913e2c33.chunk.js",
-    "static/css/main.c2fe748d.chunk.css",
+    "static/css/main.ea4c9f84.chunk.css",
     "static/js/main.35df54cf.chunk.js"
   ]
 }
